@@ -350,3 +350,4 @@ Changelog
 =========
 
 :2023-04-14: Added list of supported variants, added additional template config.
+:2023-04-28: Fixed URI typo, added host note, increase assume role duration.
